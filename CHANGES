@@ -1,0 +1,4 @@
+#### DOCU OF PACKAGE ####
+
+### CHANGES (0.1)
+* replaced gdata::read.xls by openxlsx::read.xlsx

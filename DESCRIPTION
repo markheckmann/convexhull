@@ -1,0 +1,11 @@
+Package: convexhull
+Type: Package
+Title: Drawing convex hulls
+Version: 0.1
+Date: 2016-03-18
+Author: Mark Heckmann
+Maintainer: Maintainer: Mark Heckmann <heckmann.mark@gmail.com>
+Description: Functions to draw convex hulls. Mostly convenience wrappers around existing functions.
+License: GPL (>= 3.0)
+VignetteBuilder: knitr
+Imports: MASS
